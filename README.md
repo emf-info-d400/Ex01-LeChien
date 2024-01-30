@@ -11,7 +11,7 @@ Créez cette nouvelle classe à l'aide de ce que vous offre Visual Studio Code. 
 - commencez par afficher le contenu du fichier `Application.java`. Cela informera Visual Studio Code qu'il s'agit d'un projet de type Java et chargera l'extension lui permettant d'en faire.
 - ensuite, dans la zone "JAVA PROJECTS" qui sera apparue en bas à gauche, faites un clic-droit là où vous voulez créer votre classe, puis `New`, puis `Java class` et répondez à la question posée.
 
-Veillez à mettre votre nouvelle classe dans le bon package Java (dans notre cas, vu la nature de cette nouvelle classe, il vous faudra la ranger dans le package `models` qui a déjà été créé pour vous).
+Veillez à mettre votre nouvelle classe dans le bon package Java (dans notre cas, vu la nature de cette nouvelle classe, il vous faudra la ranger dans le package `models` que vous allez devoir créer).
 
 ### b) Lui donner les caractéristiques et savoir-faire attendu
 Un chien aura comme attributs un nom et un âge.  
